@@ -32,4 +32,4 @@
 
 ***人生苦短，希望能遇见志趣相投、始于技术但不限于技术的朋友😊***
 
-[![](https://github-readme-stats.vercel.app/api?username=J0o1ey&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=J0o1ey&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
