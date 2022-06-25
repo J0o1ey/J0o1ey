@@ -11,7 +11,7 @@
 - ⭐ You may like [重生之我是赏金猎人系列](https://github.com/J0o1ey/BountyHunterInChina)
 
 ### 关于我
-- [博客](https://www.cnblogs.com/J0o1ey/)
+- [博客(停更ing)](https://www.cnblogs.com/J0o1ey/)
 
 ### 🛠 技术栈 | Tech Stack
 - 💻 渗透测试
