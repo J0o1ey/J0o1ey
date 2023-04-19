@@ -3,15 +3,14 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm J0o1ey
-- 某科技大学在读学生，经济学、市场营销方向
-- RedTeam/BlueTeam/赏金猎人
+- 某科技大学在读学生，经济学、市场营销方向，现在是个无业游民
+- RedTeam/BlueTeam/BountyHunter/ProjectManagement
 - 🌱 出生在山东，读书在西安，公司在北京，文科出身的安全从业者。
-- 💬 如有技术交流需求，红队培训、渗透测试、代码审计，红蓝对抗评估，企业安全建设，安全设备运营等方面业务需求，欢迎联系QQ/VX：547006660
+- 💬 如有技术交流，或商务洽谈需求，欢迎联系VX：J0o1ey997
 - 💬 Email [j0o1ey@qq.com](mailto:j0o1ey@qq.com)
-- ⭐ You may like [重生之我是赏金猎人系列](https://github.com/J0o1ey/BountyHunterInChina)
 
 ### 关于我
-- [博客(停更ing)](https://www.cnblogs.com/J0o1ey/)
+- [博客](https://j0o1ey.github.io)
 
 ### 🛠 技术栈 | Tech Stack
 - 💻 渗透测试
@@ -24,7 +23,7 @@
 ### 📖 其他擅长领域
 - 📞 市场营销
 - ✈️ 产品研究
-- 💼 团队运营
+- 💼 团队运营与项目管理
 
 ### 🛠 Todo / To learn
 - ☁️ K8S+云原生安全学习与落地实践
