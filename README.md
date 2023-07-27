@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm J0o1ey
-- 某科技大学在读学生，经济学、市场营销方向，现在是个无业游民
+- 暂时脱离无业游民，做甲方安全
 - RedTeam/BlueTeam/BountyHunter/ProjectManagement
 - 🌱 出生在山东，读书在西安，公司在北京，文科出身的安全从业者。
 - 💬 如有技术交流，或商务洽谈需求，欢迎联系VX：J0o1ey997
