@@ -1,6 +1,5 @@
 ## Hello GitHub Fans 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm J0o1ey
 - 暂时脱离无业游民，做甲方安全
@@ -13,20 +12,17 @@
 - [博客](https://j0o1ey.github.io)
 
 ### 🛠 技术栈 | Tech Stack
-- 💻 渗透测试
-- 🌐 代码审计
+- 💻 应用安全
+- 🌐 渗透测试/代码审计
 - 📡 安全开发
-- 🛢 红蓝对抗评估
-- 📱 基础硬件安全
+- 🛢 红蓝对抗
 - 🔧 甲方安全运营与安全建设
 
 ### 📖 其他擅长领域
-- 📞 市场营销
-- ✈️ 产品研究
-- 💼 团队运营与项目管理
+- 📞 市场营销、产品研究、团队运营与项目管理
 
-### 🛠 Todo / To learn
-- ☁️ K8S+云原生安全学习与落地实践
+### 🛠 Doing/Todo
+- 海量大数据下的威胁情报研判系统
 - 💻 机器学习 --> ATT&CK战术自动分析，规则生成
 
 ***人生苦短，希望能遇见志趣相投、始于技术但不限于技术的朋友😊***
